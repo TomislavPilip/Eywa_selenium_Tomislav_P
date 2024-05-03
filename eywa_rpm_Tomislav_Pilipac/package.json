@@ -1,0 +1,15 @@
+{
+  "name": "eywa_rpm_tomislav_pilipac",
+  "version": "1.0.0",
+  "description": "EYWA RPM test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomislav Pilipac",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "selenium-webdriver": "^4.20.0"
+  }
+}
